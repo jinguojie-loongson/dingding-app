@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=DingDing Application Community
+Comment[zh_CN]=钉钉
+Exec=/opt/dingding/find-chrome.sh -app=https://im.dingtalk.com
+Name=Application Community
+Name[zh_CN]=钉钉
+Type=Application
+Icon=/opt/dingding/dingding.png
+
